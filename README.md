@@ -8,3 +8,5 @@ Data điểm thi THPT QUỐC GIA 2020 - Cụm thi TP. Hồ Chí Minh
 VD: SBD: 02008280 -> Sau số 02 là mã 00 -> 00.txt
 
 Dữ liệu điểm thi thpt quốc gia 2020
+
+Đữ liệu bao gồm: Tên thí sinh, ngày tháng năm sinh, số điểm các môn thi, số báo danh.
